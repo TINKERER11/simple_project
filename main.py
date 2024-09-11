@@ -78,7 +78,7 @@ def help_command(message):
                                       "    for (int i = 1; i <= N; i++)\n"
                                       "        if (N % i == 0)\n"
                                       "            k++;\n"
-                                      "    if (k == 2);\n"
+                                      "    if (k == 2)\n"
                                       '        cout << "YES";\n'
                                       "    else\n"
                                       '        cout << "NO";\n'
